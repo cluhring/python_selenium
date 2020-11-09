@@ -1,7 +1,11 @@
 '''
 Created on Nov 6, 2020
 
-@author: 3247115
+@author: Chris Luhring
+Eclipse / Python setup: https://www.vogella.com/tutorials/Python/article.html
+Unit Test: https://blog.testproject.io/2016/12/08/using-selenium-with-python-p2/
+Pip: https://pip.pypa.io/en/stable/installing/
+Selenium: https://selenium-python.readthedocs.io/installation.html
 '''
 import unittest
 import time
@@ -17,6 +21,15 @@ class Test(unittest.TestCase):
         
     def tearDown(self):
         self.driver.quit()
+    
+        def centerElement(self, element):
+        driver = self.driver
+        desired_y = (element.size['height'] / 2) + element.location['y']
+        window_h = driver.execute_script('return window.innerHeight')
+        window_y = driver.execute_script('return window.pageYOffset')
+        current_y = (window_h / 2) + window_y
+        scroll_y_by = desired_y - current_y
+        driver.execute_script("window.scrollBy(0, arguments[0]);", scroll_y_by)
         
     def testGuild(self):
         driver = self.driver
@@ -24,13 +37,11 @@ class Test(unittest.TestCase):
         assert "Education as a Benefit - Guild Education" in driver.title, "FAIL: Incorrect Title"
         print("PASS:  Found Guild Edu URL")
 
-        
         # Find Get Started Button / CenterElement / Click
         get_started_button = driver.find_element_by_link_text("Get Started")
         self.centerElement(get_started_button)        
         assert get_started_button.is_enabled, "FAIL: 'Get Started' Button is not enabled on Guild Home Page"
         get_started_button.click()
-        
         
         # Ensure now on interested partner page
         assert "https://resource.guildeducation.com/interested_partner" in driver.current_url, "FAIL: Incorrect Redirect"
@@ -78,14 +89,4 @@ class Test(unittest.TestCase):
                          "FAIL : First Name Error Message contains incorrect Text")
         print("PASS:  Found Correct Form: First Name Error Message")
 
-        
-    def centerElement(self, element):
-        driver = self.driver
-        desired_y = (element.size['height'] / 2) + element.location['y']
-        window_h = driver.execute_script('return window.innerHeight')
-        window_y = driver.execute_script('return window.pageYOffset')
-        current_y = (window_h / 2) + window_y
-        scroll_y_by = desired_y - current_y
-        driver.execute_script("window.scrollBy(0, arguments[0]);", scroll_y_by)
-        
         
