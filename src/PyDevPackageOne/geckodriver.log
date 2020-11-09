@@ -1,0 +1,1049 @@
+1604893360421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.Y5D8tGU5NeqH"
+1604894039559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.iLrdr5WSZWIF"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604894045586	Marionette	INFO	Listening on port 54040
+1604894045632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604894046830	Marionette	INFO	Stopped listening on port 54040
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.jsm, line 382: TypeError: window is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604894098208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.1ECMch7i1tbZ"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604894103926	Marionette	INFO	Listening on port 54103
+1604894104267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/?gws_rd=ssl, line 13: Script terminated by timeout at:
+p@https://www.google.com/?gws_rd=ssl:13:1
+
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+1604897177569	Marionette	INFO	Stopped listening on port 54103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604897911323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.VxmJtW88URz3"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604897917156	Marionette	INFO	Listening on port 56048
+1604897917429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604897922435	Marionette	INFO	Stopped listening on port 56048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604897954726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.jGu5PvNij4lw"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604897960705	Marionette	INFO	Listening on port 56213
+1604897960851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604897965988	Marionette	INFO	Stopped listening on port 56213
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604899463488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.SDeY7USihRSZ"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604899469233	Marionette	INFO	Listening on port 56845
+1604899469616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604899474405	Marionette	INFO	Stopped listening on port 56845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604899624262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.mzjdfW3bsjYC"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604899630152	Marionette	INFO	Listening on port 56990
+1604899630375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604899636664	Marionette	INFO	Stopped listening on port 56990
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604899670815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.MNgdC5u56KjC"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604899676518	Marionette	INFO	Listening on port 57114
+1604899676945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604899681436	Marionette	INFO	Stopped listening on port 57114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604899792101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.FdHWG3LVKZTK"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604899797682	Marionette	INFO	Listening on port 57294
+1604899797714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604899802478	Marionette	INFO	Stopped listening on port 57294
+[Child 42232, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 42232, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 42232, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 42232, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604899847276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.9NMBgfQAJeJq"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604899853300	Marionette	INFO	Listening on port 57423
+1604899853403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604900338369	Marionette	INFO	Stopped listening on port 57423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+a Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604900321362	Marionette	INFO	Listening on port 57638
+1604900321399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+[47452, Chrome_ChildThread] WARNING: failed to create pipe: 2: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 238
+[47452, Chrome_ChildThread] WARNING: Unable to create pipe named "22096.34.1003472806\1328574018" in client mode.: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 71
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+1604900412166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.QWqiD4GMS8Jg"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604900417984	Marionette	INFO	Listening on port 57763
+1604900418311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604900426076	Marionette	INFO	Stopped listening on port 57763
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604900501335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.zoQ3ZyxnrxxV"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604900507062	Marionette	INFO	Listening on port 57906
+1604900507502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1604902804456	Marionette	INFO	Stopped listening on port 57906
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604902930149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.c9LpMV1PmwCj"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604902936086	Marionette	INFO	Listening on port 58338
+1604902936286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604902943956	Marionette	INFO	Stopped listening on port 58338
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604902997462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.UQYQt85LtjUR"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903003376	Marionette	INFO	Listening on port 58473
+1604903003607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903071042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.Aeqitv8X0Evu"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903077028	Marionette	INFO	Listening on port 58585
+1604903077183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903174147	Marionette	INFO	Stopped listening on port 58585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903312881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.Y6MFdcBdzGBl"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903318767	Marionette	INFO	Listening on port 58745
+1604903319030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903326782	Marionette	INFO	Stopped listening on port 58745
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903386131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.pF6Jg2eMTGgy"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903392295	Marionette	INFO	Listening on port 58925
+1604903392769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903400259	Marionette	INFO	Stopped listening on port 58925
+[Child 57972, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 57972, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903441524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.9F7KFCb80GbW"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903447441	Marionette	INFO	Listening on port 59071
+1604903447668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903454870	Marionette	INFO	Stopped listening on port 59071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903535192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.fjLRzOIDPeev"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903540846	Marionette	INFO	Listening on port 59213
+1604903541342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903549298	Marionette	INFO	Stopped listening on port 59213
+[Child 24020, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 24020, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 24020, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 24020, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903811910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.xR1go69Ytw7R"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903817777	Marionette	INFO	Listening on port 59378
+1604903818042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903830475	Marionette	INFO	Stopped listening on port 59378
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903932856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.blGnEFNMn9hJ"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903938760	Marionette	INFO	Listening on port 59515
+1604903939000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604903952150	Marionette	INFO	Stopped listening on port 59515
+[Child 64156, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 64156, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604903987075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.TUXIomkMU7xa"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604903992940	Marionette	INFO	Listening on port 59665
+1604903993246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1604904180336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.a4vplSdlZSyp"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904186439	Marionette	INFO	Listening on port 59817
+1604904186492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+[66080, Chrome_ChildThread] WARNING: failed to create pipe: 2: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 238
+[66080, Chrome_ChildThread] WARNING: Unable to create pipe named "64672.34.1638682131\953113848" in client mode.: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 71
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+1604904194132	Marionette	INFO	Stopped listening on port 59817
+[Child 65480, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 65480, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604904242677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.bbwZ5soRhoZv"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904248996	Marionette	INFO	Listening on port 59961
+1604904249314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+[65704, Chrome_ChildThread] WARNING: failed to create pipe: 2: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 238
+[65704, Chrome_ChildThread] WARNING: Unable to create pipe named "65244.34.1100020398\1039602416" in client mode.: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 71
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+1604904256936	Marionette	INFO	Stopped listening on port 59961
+[Child 64916, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604904312779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.JS8AAbhVYzSf"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904319014	Marionette	INFO	Listening on port 60152
+1604904319383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1604904393923	Marionette	INFO	Stopped listening on port 60152
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604904496565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.BeQm318M4Ott"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904502549	Marionette	INFO	Listening on port 60310
+1604904502704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604904509847	Marionette	INFO	Stopped listening on port 60310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604904590486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.IoyUz2aAzmN4"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904596358	Marionette	INFO	Listening on port 60455
+1604904596619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new Error("Connection closed, pending request to server0.conn0.child2/domnode319, type waitForFrameLoad failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:260:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nquerySelectors@resource://devtools/client/fronts/walker.js:515:25\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://devtools/shared/dom-helpers.js, line 32: TypeError: can't access dead object
+console.error: (new Error("Connection closed, pending request to server0.conn0.child2/domnode425, type waitForFrameLoad failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:260:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nquerySelectors@resource://devtools/client/fronts/walker.js:515:25\n", "resource://devtools/shared/protocol/Front.js", 77))
+JavaScript error: resource://devtools/shared/dom-helpers.js, line 32: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/dom-helpers.js, line 32: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/dom-helpers.js, line 32: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/dom-helpers.js, line 32: TypeError: can't access dead object
+1604904830506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.x0iD521YjxFJ"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904835507	Marionette	INFO	Listening on port 60635
+1604904836016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+[67508, Chrome_ChildThread] WARNING: failed to create pipe: 2: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 238
+[67508, Chrome_ChildThread] WARNING: Unable to create pipe named "61856.34.883910806\1822566076" in client mode.: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 71
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+1604904841957	Marionette	INFO	Stopped listening on port 60635
+[Child 65180, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604904886902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.nzEBAJGK8e8Y"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904892822	Marionette	INFO	Listening on port 60780
+1604904893036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604904946472	Marionette	INFO	Stopped listening on port 60780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604904969271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.8LIwAWcxCjvH"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604904975193	Marionette	INFO	Listening on port 60935
+1604904975404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604904983199	Marionette	INFO	Stopped listening on port 60935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905097316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.D7np9lvS00GZ"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905103171	Marionette	INFO	Listening on port 61079
+1604905103424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905110633	Marionette	INFO	Stopped listening on port 61079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905167820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.WALHDHC3LV2v"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905173574	Marionette	INFO	Listening on port 61228
+1604905173962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905421576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.uhTIfHsETNtP"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905428048	Marionette	INFO	Listening on port 61455
+1604905428216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905436207	Marionette	INFO	Stopped listening on port 61455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905566383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.5pyQGV0GH4NN"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905571916	Marionette	INFO	Listening on port 61618
+1604905572032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905582037	Marionette	INFO	Stopped listening on port 61618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905701048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.qgNXyNYPvffP"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905706723	Marionette	INFO	Listening on port 61772
+1604905707175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905714706	Marionette	INFO	Stopped listening on port 61772
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905778254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.pwPkxMwYRWpS"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905784035	Marionette	INFO	Listening on port 61921
+1604905784385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905793121	Marionette	INFO	Stopped listening on port 61921
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905826900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.E4V3PQrX5fcn"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905832902	Marionette	INFO	Listening on port 62062
+1604905833042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905840947	Marionette	INFO	Stopped listening on port 62062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604905963247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.sDba2ECnwL0f"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604905969152	Marionette	INFO	Listening on port 62205
+1604905969377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604905977717	Marionette	INFO	Stopped listening on port 62205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604906006458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.waox10VQ0hf7"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604906012247	Marionette	INFO	Listening on port 62353
+1604906012578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604906020127	Marionette	INFO	Stopped listening on port 62353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604906042441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.AjGu6dn9c8BR"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604906048147	Marionette	INFO	Listening on port 62494
+1604906048573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604906056693	Marionette	INFO	Stopped listening on port 62494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604906078455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.aSDil1VZxUBA"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604906084072	Marionette	INFO	Listening on port 62646
+1604906084578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604906092622	Marionette	INFO	Stopped listening on port 62646
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604906235353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.2dy27OMB0uNv"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604906241190	Marionette	INFO	Listening on port 62855
+1604906241489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604906249219	Marionette	INFO	Stopped listening on port 62855
+[Child 68332, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604906345708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.cZpHCMWxhHtj"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604906351182	Marionette	INFO	Listening on port 63020
+1604906351295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604906370014	Marionette	INFO	Stopped listening on port 63020
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604906386841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.htLXrA1guYXt"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604906392837	Marionette	INFO	Listening on port 63166
+1604906392972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604906412971	Marionette	INFO	Stopped listening on port 63166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604938445309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.twhrsjKjitnq"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604938451485	Marionette	INFO	Listening on port 50301
+1604938451967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resource.guildeducation.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resource.guildeducation.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resource.guildeducation.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://resource.guildeducation.com"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+1604939885151	Marionette	INFO	Stopped listening on port 50301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+a Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604939885161	Marionette	INFO	Listening on port 50686
+1604939885556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604939904803	Marionette	INFO	Stopped listening on port 50686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604939947862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.bwYccts0E4nW"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604939953408	Marionette	INFO	Listening on port 50828
+1604939953473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604939973111	Marionette	INFO	Stopped listening on port 50828
+[Child 72016, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604940026736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.PrHzAiPf8FgJ"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604940032777	Marionette	INFO	Listening on port 50968
+1604940032883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604940046671	Marionette	INFO	Stopped listening on port 50968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604940087792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.rG2osM0wt4Ss"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604940093826	Marionette	INFO	Listening on port 51111
+1604940093922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604940107141	Marionette	INFO	Stopped listening on port 51111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604940184954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\3247115\\AppData\\Local\\Temp\\rust_mozprofile.Cu14CJDLmYnV"
+C:\Program Files\Mozilla Firefox\defaults\pref\all.js:1: prefs parse error: unexpected character
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604940190678	Marionette	INFO	Listening on port 51305
+1604940191092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.guildeducation.com/wp-content/cache/autoptimize/js/autoptimize_efa358571688f45dfee7a77cd258ea31.js, line 2: TypeError: jQuery.browser is undefined
+Unable to read VR Path Registry from C:\Users\3247115\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1604940204858	Marionette	INFO	Stopped listening on port 51305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
