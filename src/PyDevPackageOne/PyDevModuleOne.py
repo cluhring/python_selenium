@@ -22,7 +22,7 @@ class Test(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
     
-        def centerElement(self, element):
+    def centerElement(self, element):
         driver = self.driver
         desired_y = (element.size['height'] / 2) + element.location['y']
         window_h = driver.execute_script('return window.innerHeight')
